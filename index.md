@@ -1,2 +1,2 @@
 Hello 
-<a href="/gav">Link</gav>
+<a href="./gav">Link</a>
